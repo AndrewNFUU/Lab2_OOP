@@ -57,5 +57,5 @@ vector<Movie> MediaLib::searchByGenre(string genre) {
 }
 
 MediaLib::~MediaLib() {
-    //delete[] movies; // Звільнення пам'яті для нового масиву
+    //delete[] movies; 
 }
